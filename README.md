@@ -4,7 +4,7 @@ The program takes an array created in the command line and sorts it with a quick
 ## Setup
 Run `ghci` in the command line to open the GHCi
 
-Load and complie program with `:l Assignment3.hs`
+Load and complie program with `:l MergeSort.hs`
 
 ## Running
 
